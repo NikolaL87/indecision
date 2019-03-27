@@ -1,1 +1,1 @@
-# indecision
+# Indecision app
